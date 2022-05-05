@@ -1,0 +1,7 @@
+{
+  "name": "pokedex2022",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
